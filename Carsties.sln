@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6A026468-D7C2-4D3C-A043-5C7653C3D936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionServices", "src\AuctionServices\AuctionServices.csproj", "{C2942698-6B03-46CA-BD5F-E3A1035AC1B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2942698-6B03-46CA-BD5F-E3A1035AC1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2942698-6B03-46CA-BD5F-E3A1035AC1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2942698-6B03-46CA-BD5F-E3A1035AC1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2942698-6B03-46CA-BD5F-E3A1035AC1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C2942698-6B03-46CA-BD5F-E3A1035AC1B8} = {6A026468-D7C2-4D3C-A043-5C7653C3D936}
+	EndGlobalSection
+EndGlobal
